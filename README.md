@@ -6,7 +6,7 @@ print("Welcome to DHS! Please answer the following questions truthfully and we'l
 print("Please respond with a number 1 - 5, where 1 is strongly disagree and 5 is strongly agree.")
 print()
 
-tech1 = input("I enjoy disocvering more about electronics.")
+tech1 = input("I enjoy disocovering more about electronics.")
 
 outdoor1 = input("I do not like staying at home.")
 
